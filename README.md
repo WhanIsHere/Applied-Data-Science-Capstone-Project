@@ -1,7 +1,7 @@
 # Applied-Data-Science-Capstone-Project
-This is the capstone project for IBM Data Science
+This is the capstone project for IBM Data Science about performing EDA and prediction model for successful landing from SpaceX Launches
 
-Executive Summary
+Executive Summary of Methodology
 - Data collection methodology:
   - Get request from SpaceX REST API and JSON 
   - Perform Web scraping using BeautifulSoup function
